@@ -7,4 +7,4 @@ cd fonts
 cd .. && rm -rf fonts
 
 # oh-my-zsh & plugins
-cp ./.zshrc ~
+# cp ./.zshrc ~
